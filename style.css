@@ -48,7 +48,7 @@ h1 {
         font-family: 'Lilita One', cursive;
     font-size: 3.5rem;
     }
-    .tile-image {
+    .card img {
         display: inline;
         width: 100%;
         margin-bottom: 10px;
